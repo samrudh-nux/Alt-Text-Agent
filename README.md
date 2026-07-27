@@ -6,6 +6,7 @@
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Powered by Claude](https://img.shields.io/badge/powered%20by-Claude-6ea8fe.svg)](https://www.anthropic.com)
+![Alt Image Generator](ogimage.png)
 
 ---
 
